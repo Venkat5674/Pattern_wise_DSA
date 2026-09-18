@@ -5,3 +5,5 @@ LC - 159 2. https://leetcode.com/problems/longest-substring-with-at-most-two-dis
 LC - 904 3.https://leetcode.com/problems/fruit-into-baskets/
 
 LC - 1004 4. https://leetcode.com/problems/max-consecutive-ones-iii/
+
+LC - 424 5. https://leetcode.com/problems/longest-repeating-character-replacement/
